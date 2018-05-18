@@ -35,9 +35,7 @@ Literature Review for Interactive annotation/segmentation
 ### nlp
 
 -    [Guide Me: Interacting with Deep Networks](https://arxiv.org/pdf/1803.11544.pdf) - C Rupprecht et al.,  2018 CVPR 
-		*  Minimizing the number of clicks
-		*  Multi-modality
-		*  Multiple choice learning
+
 
 			
 
